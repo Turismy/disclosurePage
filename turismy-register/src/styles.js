@@ -14,7 +14,7 @@ export const SectionStyled = styled.section`
   border-radius: 10px;
 
   .aside {
-    background-color: orange;
+    background-color: #ff7029;
     border-radius: 10px 0 0 10px;
   }
   div {
